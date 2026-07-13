@@ -14,6 +14,7 @@ A practical Git cheat sheet with explanations and examples.
 |---------|-------------|
 | `git init` | Initialize a new Git repository |
 | `git status` | Show repository status |
+| `git add` | Add changes to the staging area |
 
 ## Table of Contents
 
