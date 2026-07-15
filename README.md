@@ -1,9 +1,9 @@
 # Git Cheat Sheet
 
-[![Git](https://img.shields.io/badge/Git-2.55-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-SHADO--VIP-181717?style=for-the-badge&logo=github)](https://github.com/SHADO-VIP)
-[![Markdown](https://img.shields.io/badge/Markdown-Documentation-000000?style=for-the-badge&logo=markdown)](https://www.markdownguide.org/)
-[![License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)](#license)
+[![GitHub last commit](https://img.shields.io/github/last-commit/SHADO-VIP/git-cheat-sheet?style=for-the-badge)](https://github.com/SHADO-VIP/git-cheat-sheet/commits/main)
+[![GitHub repo size](https://img.shields.io/github/repo-size/SHADO-VIP/git-cheat-sheet?style=for-the-badge)](https://github.com/SHADO-VIP/git-cheat-sheet)
+[![GitHub License](https://img.shields.io/github/license/SHADO-VIP/git-cheat-sheet?style=for-the-badge)](LICENSE)
+[![GitHub Release](https://img.shields.io/github/v/release/SHADO-VIP/git-cheat-sheet?style=for-the-badge)](https://github.com/SHADO-VIP/git-cheat-sheet/releases)
 
 A comprehensive Git and GitHub reference guide featuring practical commands, real-world examples, best practices, and common mistakes for developers.
 
